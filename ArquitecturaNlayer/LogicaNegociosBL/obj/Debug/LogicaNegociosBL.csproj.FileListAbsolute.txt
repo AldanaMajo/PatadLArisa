@@ -1,0 +1,33 @@
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\LogicaNegociosBL.dll
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\LogicaNegociosBL.pdb
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\EntidadNegocioEN.dll
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\LogicaAccesoDatosDAL.dll
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\EntidadNegocioEN.pdb
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\LogicaAccesoDatosDAL.pdb
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNegociosBL.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNegociosBL.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNe.49F2CD48.Up2Date
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNegociosBL.dll
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNegociosBL.pdb
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\LogicaNegociosBL.dll
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\LogicaNegociosBL.pdb
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\EntidadNegocioEN.dll
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\LogicaAccesoDatosDAL.dll
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\EntidadNegocioEN.pdb
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\LogicaAccesoDatosDAL.pdb
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNegociosBL.csproj.AssemblyReference.cache
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNegociosBL.csproj.CoreCompileInputs.cache
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNe.49F2CD48.Up2Date
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNegociosBL.dll
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNegociosBL.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNegociosBL.csproj.AssemblyReference.cache
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNegociosBL.csproj.CoreCompileInputs.cache
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNegociosBL.dll
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNegociosBL.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\LogicaNegociosBL.dll
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\LogicaNegociosBL.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\EntidadNegocioEN.dll
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\LogicaAccesoDatosDAL.dll
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\EntidadNegocioEN.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaNegociosBL\bin\Debug\LogicaAccesoDatosDAL.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaNegociosBL\obj\Debug\LogicaNe.49F2CD48.Up2Date

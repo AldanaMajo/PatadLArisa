@@ -1,0 +1,50 @@
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\bin\Debug\PresentacionUI.exe.config
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\bin\Debug\PresentacionUI.exe
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\bin\Debug\PresentacionUI.pdb
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\bin\Debug\EntidadNegocioEN.dll
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\bin\Debug\LogicaNegociosBL.dll
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\bin\Debug\EntidadNegocioEN.pdb
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\bin\Debug\LogicaNegociosBL.pdb
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.Properties.Resources.resources
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\obj\Debug\Presenta.F83ADFFB.Up2Date
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.exe
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.pdb
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.CategoriaWF.resources
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\bin\Debug\PresentacionUI.exe.config
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\bin\Debug\PresentacionUI.exe
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\bin\Debug\PresentacionUI.pdb
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\bin\Debug\EntidadNegocioEN.dll
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\bin\Debug\LogicaNegociosBL.dll
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\bin\Debug\LogicaAccesoDatosDAL.dll
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\bin\Debug\EntidadNegocioEN.pdb
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\bin\Debug\LogicaNegociosBL.pdb
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\bin\Debug\LogicaAccesoDatosDAL.pdb
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.csproj.AssemblyReference.cache
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.CategoriaWF.resources
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.Properties.Resources.resources
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.csproj.GenerateResource.cache
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.csproj.CoreCompileInputs.cache
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\obj\Debug\Presenta.F83ADFFB.Up2Date
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.exe
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\bin\Debug\PresentacionUI.exe.config
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\bin\Debug\PresentacionUI.exe
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\bin\Debug\PresentacionUI.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\bin\Debug\EntidadNegocioEN.dll
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\bin\Debug\LogicaNegociosBL.dll
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\bin\Debug\LogicaAccesoDatosDAL.dll
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\bin\Debug\EntidadNegocioEN.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\bin\Debug\LogicaNegociosBL.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\bin\Debug\LogicaAccesoDatosDAL.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.csproj.AssemblyReference.cache
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.CategoriaWF.resources
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.PeliculaWF.resources
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.Properties.Resources.resources
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.csproj.GenerateResource.cache
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.csproj.CoreCompileInputs.cache
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\obj\Debug\Presenta.F83ADFFB.Up2Date
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.exe
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\PresentacionUI\obj\Debug\PresentacionUI.pdb

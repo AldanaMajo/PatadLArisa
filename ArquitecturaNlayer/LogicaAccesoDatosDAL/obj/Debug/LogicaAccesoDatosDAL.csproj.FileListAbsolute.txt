@@ -1,0 +1,27 @@
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaAccesoDatosDAL\bin\Debug\LogicaAccesoDatosDAL.dll
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaAccesoDatosDAL\bin\Debug\LogicaAccesoDatosDAL.pdb
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaAccesoDatosDAL\bin\Debug\EntidadNegocioEN.dll
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaAccesoDatosDAL\bin\Debug\EntidadNegocioEN.pdb
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAccesoDatosDAL.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAccesoDatosDAL.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAc.196DF876.Up2Date
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAccesoDatosDAL.dll
+C:\Users\Alumno\Desktop\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAccesoDatosDAL.pdb
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaAccesoDatosDAL\bin\Debug\LogicaAccesoDatosDAL.dll
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaAccesoDatosDAL\bin\Debug\LogicaAccesoDatosDAL.pdb
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaAccesoDatosDAL\bin\Debug\EntidadNegocioEN.dll
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaAccesoDatosDAL\bin\Debug\EntidadNegocioEN.pdb
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAccesoDatosDAL.csproj.AssemblyReference.cache
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAccesoDatosDAL.csproj.CoreCompileInputs.cache
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAc.196DF876.Up2Date
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAccesoDatosDAL.dll
+C:\Users\50376\Desktop\ArquitecturaNlayer\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAccesoDatosDAL.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAccesoDatosDAL.csproj.AssemblyReference.cache
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAccesoDatosDAL.csproj.CoreCompileInputs.cache
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAccesoDatosDAL.dll
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAccesoDatosDAL.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaAccesoDatosDAL\bin\Debug\LogicaAccesoDatosDAL.dll
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaAccesoDatosDAL\bin\Debug\LogicaAccesoDatosDAL.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaAccesoDatosDAL\bin\Debug\EntidadNegocioEN.dll
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaAccesoDatosDAL\bin\Debug\EntidadNegocioEN.pdb
+C:\Users\majoo\Downloads\ArquitecturaNlayer (1)\ArquitecturaNlayer\LogicaAccesoDatosDAL\obj\Debug\LogicaAc.196DF876.Up2Date
